@@ -1,0 +1,183 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-heading: var(--font-heading);
+  --font-body: var(--font-body);
+  --color-bg: #F8FAF9;
+  --color-bg-warm: #ECF5F0;
+  --color-bg-card: #FFFFFF;
+  --color-bg-dark: #052E2B;
+  --color-bg-accent: #DCFCE7;
+  --color-text: #0F2A26;
+  --color-text-light: #4B6B65;
+  --color-text-muted: #8AA39C;
+  --color-accent: #00A878;
+  --color-accent-dark: #00875A;
+  --color-accent-light: #4ADE80;
+  --color-border: #DCEDE5;
+  --color-border-light: #EBF5F0;
+  --color-success: #00A878;
+  --color-error: #EF4444;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-body), 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.7;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Arabic font — applies to everything (including headings + inline tags) */
+.font-ar,
+.font-ar * {
+  font-family: var(--font-ar), 'Tajawal', -apple-system, sans-serif !important;
+}
+.font-ar h1, .font-ar h2, .font-ar h3, .font-ar h4,
+.font-ar [style*="Playfair"] {
+  font-family: var(--font-ar), 'Tajawal', sans-serif !important;
+}
+/* Arabic doesn't have proper italic — kill the slant on <em> in RTL */
+[dir="rtl"] em,
+.font-ar em {
+  font-style: normal !important;
+  font-weight: 600;
+}
+
+/* ---------- BUTTONS ---------- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 14px 32px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  border-radius: 6px;
+  border: 1.5px solid transparent;
+  cursor: pointer;
+  transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.btn-primary {
+  background: var(--color-bg-dark);
+  color: white;
+  border-color: var(--color-bg-dark);
+}
+.btn-primary:hover {
+  background: var(--color-text);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(0,168,120,0.28);
+}
+.btn-ghost {
+  background: transparent;
+  color: var(--color-text);
+  border-color: var(--color-border);
+}
+.btn-ghost:hover {
+  border-color: var(--color-text);
+  transform: translateY(-2px);
+}
+.btn-outline {
+  background: transparent;
+  color: var(--color-text);
+  border-color: var(--color-border);
+}
+.btn-outline:hover {
+  background: var(--color-bg-dark);
+  color: white;
+  border-color: var(--color-bg-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(0,168,120,0.28);
+}
+.btn-lg { padding: 18px 40px; font-size: 1rem; }
+
+/* ---------- ANIMATIONS ---------- */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+.animate-float { animation: float 6s ease-in-out infinite; }
+
+.reveal {
+  opacity: 0;
+  transform: translateY(32px);
+  transition: opacity 0.7s cubic-bezier(0.16,1,0.3,1), transform 0.7s cubic-bezier(0.16,1,0.3,1);
+}
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ---------- FORM ---------- */
+.form-input {
+  width: 100%;
+  padding: 12px 16px;
+  border: 1.5px solid var(--color-border);
+  border-radius: 6px;
+  font-size: 0.92rem;
+  color: var(--color-text);
+  background: var(--color-bg);
+  transition: border-color 0.3s, box-shadow 0.3s;
+  outline: none;
+}
+.form-input:focus {
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 3px rgba(0,168,120,0.15);
+}
+.form-input::placeholder { color: var(--color-text-muted); }
+
+/* ---------- MODAL ---------- */
+.modal-overlay {
+  position: fixed; inset: 0;
+  background: rgba(5,46,43,0.5);
+  backdrop-filter: blur(8px);
+  z-index: 2000;
+  display: flex; align-items: center; justify-content: center;
+  opacity: 0; pointer-events: none;
+  transition: opacity 0.3s;
+  padding: 24px;
+}
+.modal-overlay.active { opacity: 1; pointer-events: all; }
+.modal-box {
+  background: var(--color-bg-card);
+  border-radius: 28px;
+  padding: 48px 40px;
+  width: 100%; max-width: 520px;
+  max-height: 90vh; overflow-y: auto;
+  position: relative;
+  transform: translateY(20px);
+  transition: transform 0.4s cubic-bezier(0.16,1,0.3,1);
+}
+.modal-overlay.active .modal-box { transform: translateY(0); }
+
+/* ---------- TOAST ---------- */
+.toast-container {
+  position: fixed; bottom: 32px; right: 32px; z-index: 9999;
+}
+[dir="rtl"] .toast-container { right: auto; left: 32px; }
+.toast {
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border-light);
+  border-radius: 12px;
+  padding: 16px 24px;
+  box-shadow: 0 20px 60px rgba(5,46,43,0.12);
+  transform: translateY(100px); opacity: 0;
+  transition: all 0.4s cubic-bezier(0.16,1,0.3,1);
+  max-width: 400px;
+}
+.toast.show { transform: translateY(0); opacity: 1; }
+.toast-success { border-left: 4px solid var(--color-success); }
+.toast-error { border-left: 4px solid var(--color-error); }
+[dir="rtl"] .toast-success { border-left: none; border-right: 4px solid var(--color-success); }
+[dir="rtl"] .toast-error { border-left: none; border-right: 4px solid var(--color-error); }
+
+@media (max-width: 640px) {
+  .modal-box { padding: 32px 24px; }
+}

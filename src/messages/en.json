@@ -1,0 +1,1500 @@
+{
+  "meta": {
+    "title": "Matgari — Your Store, Your Story",
+    "description": "Launch your premium online store in minutes. Matgari gives you the tools to build, manage, and grow your e-commerce business with elegance."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "pricing": "Pricing",
+    "story": "Our Story",
+    "startFree": "Start Free",
+    "signIn": "Sign In"
+  },
+  "hero": {
+    "eyebrow": "E-Commerce, Reimagined",
+    "title1": "Build a store that",
+    "title2": "tells your story",
+    "subtitle": "Matgari gives independent merchants a beautifully simple platform to launch, manage, and scale their online presence — no code, no complexity, just craft.",
+    "cta": "Create Your Store",
+    "ctaSecondary": "See How It Works",
+    "proof": "Trusted by {count}+ merchants across the region"
+  },
+  "brandStrip": {
+    "label": "Powering stores that feel like home"
+  },
+  "features": {
+    "eyebrow": "Why Matgari",
+    "title1": "Everything you need,",
+    "title2": "nothing you don't",
+    "subtitle": "We obsessed over every detail so you can focus on what matters — your craft and your customers.",
+    "items": {
+      "subdomain": {
+        "title": "Your Subdomain, Instantly",
+        "desc": "Get your own store.matgari.com in under two minutes. No technical setup, no hosting headaches."
+      },
+      "products": {
+        "title": "Product Management",
+        "desc": "Add products with variants, images, SEO metadata, and inventory tracking — all from a clean, intuitive dashboard."
+      },
+      "security": {
+        "title": "Secure & Private",
+        "desc": "Each store runs on its own isolated database. Your data is yours alone — always encrypted, always protected."
+      },
+      "seo": {
+        "title": "Built-in SEO",
+        "desc": "Structured data, sitemaps, Open Graph tags, and canonical URLs generated automatically for every page."
+      },
+      "reviews": {
+        "title": "Reviews & Social Proof",
+        "desc": "Customers leave reviews, you moderate them. Build trust organically with genuine feedback from real buyers."
+      },
+      "payments": {
+        "title": "Offline Payments",
+        "desc": "Accept wallet transfers and InstaPay. Customers upload receipts, you confirm — simple and trusted."
+      }
+    }
+  },
+  "howItWorks": {
+    "eyebrow": "The Journey",
+    "title1": "From idea to live store",
+    "title2": "in three gentle steps",
+    "steps": {
+      "register": {
+        "title": "Register & Choose a Plan",
+        "desc": "Sign up with your details, pick a plan that fits, and upload your payment receipt. We keep it human — no credit cards required."
+      },
+      "activate": {
+        "title": "We Activate Your Store",
+        "desc": "Our team reviews your payment and activates your store within hours. You'll receive an email with your personal store link."
+      },
+      "sell": {
+        "title": "Add Products & Start Selling",
+        "desc": "Upload your catalog, customize your store, and share it with the world. Orders flow in, notifications keep you informed."
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title1": "Invest in your business,",
+    "title2": "not on counting costs",
+    "subtitle": "Transparent pricing with no hidden fees. Start small, grow at your pace.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "save": "Save 20%",
+    "perMonth": "/ month",
+    "perYear": "/ year",
+    "currency": "EGP",
+    "getStarted": "Get Started",
+    "mostPopular": "Most Popular",
+    "starter": {
+      "name": "Starter",
+      "desc": "For those just beginning their journey"
+    },
+    "professional": {
+      "name": "Professional",
+      "desc": "For growing businesses ready to scale"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "desc": "For established brands that demand the best"
+    },
+    "features": {
+      "products": "Up to {count} products",
+      "unlimitedProducts": "Unlimited products",
+      "categories": "{count} categories",
+      "unlimitedCategories": "Unlimited categories",
+      "unlimitedAll": "Unlimited everything",
+      "basicSeo": "Basic SEO",
+      "advancedSeo": "Advanced SEO",
+      "orders": "Order management",
+      "reviews": "Customer reviews",
+      "variants": "Product variants",
+      "multiImages": "Multiple images",
+      "coupons": "Coupons & discounts",
+      "customDomain": "Custom domain",
+      "api": "API access",
+      "priority": "Priority support"
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Kind Words",
+    "title1": "Stories from our",
+    "title2": "merchant family"
+  },
+  "story": {
+    "eyebrow": "Our Story",
+    "title1": "Built by merchants,",
+    "title2": "for merchants",
+    "p1": "We started Matgari because we believed every artisan, every small business, every passionate creator deserves a storefront as beautiful as their craft.",
+    "p2": "Too many platforms drown you in complexity. We stripped away the noise and built something that feels like an extension of your workshop — warm, focused, and deeply personal.",
+    "p3_1": "Every feature we ship is tested by real merchants. Every decision we make asks one question:",
+    "p3_2": "Does this help someone sell what they love?",
+    "stats": {
+      "merchants": "Active Merchants",
+      "orders": "Orders Processed",
+      "uptime": "Uptime"
+    },
+    "images": {
+      "craftsmanship": "Craftsmanship",
+      "community": "Community",
+      "growth": "Growth"
+    }
+  },
+  "cta": {
+    "title": "Ready to open your doors?",
+    "subtitle": "Join thousands of merchants who chose craft over complexity.",
+    "btn": "Create Your Store Today"
+  },
+  "footer": {
+    "tagline": "Your store, your story. We just help you tell it beautifully.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "careers": "Careers",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "refund": "Refund Policy",
+    "copy": "Matgari. Made with intention in Egypt."
+  },
+  "auth": {
+    "welcomeBack": "Welcome back",
+    "signInSubtitle": "Sign in to manage your store",
+    "startJourney": "Start your journey",
+    "registerSubtitle": "Create your merchant account",
+    "email": "Email",
+    "emailPlaceholder": "you@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "Your password",
+    "signInBtn": "Sign In",
+    "signingIn": "Signing in...",
+    "noAccount": "Don't have an account?",
+    "createOne": "Create one",
+    "hasAccount": "Already have an account?",
+    "signInLink": "Sign in",
+    "fullName": "Full Name",
+    "namePlaceholder": "Your name",
+    "storeName": "Store Name",
+    "storeNamePlaceholder": "english-only",
+    "storeNameHint": "English only, no spaces (this becomes your subdomain)",
+    "phone": "Phone",
+    "phonePlaceholder": "01xxxxxxxxx",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm password",
+    "createAccount": "Create Account",
+    "creatingAccount": "Creating account...",
+    "passwordMismatch": "Passwords do not match",
+    "accountCreated": "Account created! Your store is pending approval.",
+    "welcomeRedirect": "Welcome back! Redirecting...",
+    "invalidCredentials": "Invalid credentials",
+    "registrationFailed": "Registration failed",
+    "connectionError": "Connection error. Please try again."
+  },
+  "pages": {
+    "features": {
+      "meta": {
+        "title": "Features — Matgari",
+        "description": "Discover all the features that make Matgari the perfect platform for your e-commerce business."
+      },
+      "hero": {
+        "eyebrow": "Everything you need",
+        "title1": "Powerful tools,",
+        "title2": "simple experience",
+        "subtitle": "Every feature was carefully crafted to help you sell your products with ease and elegance."
+      },
+      "sections": {
+        "products": {
+          "title": "Smart Product Management",
+          "desc": "Add your products with all their details — multiple images, variants (size, color), descriptions, and SEO metadata. All from a simple, fast interface.",
+          "items": ["Multiple images per product", "Variants (sizes, colors)", "Inventory management", "SKU codes", "Categories and brands"]
+        },
+        "store": {
+          "title": "Your Own Store",
+          "desc": "A unique subdomain, elegant customizable templates, and a slider to showcase your offers. Your store reflects your identity.",
+          "items": ["Free subdomain", "Multiple templates", "Color and logo customization", "Custom pages (About, Terms)", "Slider and banner management"]
+        },
+        "orders": {
+          "title": "Order & Shipping Management",
+          "desc": "Track your orders from start to finish. Update statuses, communicate with customers, and control payment and shipping methods.",
+          "items": ["Interactive order dashboard", "Multiple statuses", "Payment method management", "Coupons and discounts", "Real-time notifications"]
+        },
+        "marketing": {
+          "title": "Marketing & SEO",
+          "desc": "Built-in SEO tools to appear in search results, Open Graph for shares, and Structured Data for rich results.",
+          "items": ["Automatic Sitemap", "Customizable Robots.txt", "Meta tags per page", "Open Graph & Twitter Cards", "Schema.org Structured Data"]
+        }
+      }
+    },
+    "about": {
+      "meta": {
+        "title": "About — Matgari",
+        "description": "Learn about Matgari's story and our mission to empower merchants."
+      },
+      "hero": {
+        "eyebrow": "Our Story",
+        "title": "We believe every ambitious business deserves an online store that does it justice."
+      },
+      "mission": {
+        "title": "Our Mission",
+        "desc": "We aim to empower shop owners and merchants to build a professional digital presence without any complexity. We believe technology should multiply your sales and simplify your operations — not get in your way."
+      },
+      "values": {
+        "title": "Our Values",
+        "items": {
+          "simplicity": { "title": "Simplicity", "desc": "We remove complexity so essentials shine." },
+          "quality": { "title": "Quality", "desc": "Every detail is considered and tested." },
+          "support": { "title": "Support", "desc": "Our team is here when you need us." },
+          "growth": { "title": "Growth", "desc": "Your success is our success." }
+        }
+      },
+      "team": {
+        "title": "Built with love",
+        "desc": "A team of developers and designers in Egypt, we love what we do and believe local commerce deserves world-class tools."
+      }
+    },
+    "superadmin": {
+      "meta": {
+        "title": "Super Admin — Matgari",
+        "description": "Platform administration"
+      },
+      "nav": {
+        "overview": "Overview",
+        "tenants": "Stores",
+        "subscriptions": "Subscriptions",
+        "plans": "Plans",
+        "messages": "Contact Messages"
+      },
+      "overview": {
+        "welcome": "Welcome, {name}",
+        "subtitle": "Platform overview",
+        "stats": {
+          "totalStores": "Total Stores",
+          "activeStores": "Active Stores",
+          "awaitingPayment": "Awaiting Payment",
+          "suspendedStores": "Suspended",
+          "pendingVendors": "Pending Vendors",
+          "totalSubscriptions": "Subscriptions",
+          "monthlyRevenue": "Revenue",
+          "unreadMessages": "New Messages"
+        },
+        "quickActions": "Quick Actions",
+        "recentVendors": "Recent Vendors",
+        "pendingSubscriptions": "Pending Subscriptions",
+        "viewAll": "View all",
+        "noPending": "Nothing pending"
+      },
+      "tenants": {
+        "title": "Stores & Vendors",
+        "subtitle": "Manage all vendors and stores",
+        "filters": {
+          "all": "All",
+          "pending": "Pending",
+          "approved": "Approved",
+          "rejected": "Rejected",
+          "cancelled": "Cancelled"
+        },
+        "table": {
+          "vendor": "Vendor",
+          "store": "Store",
+          "phone": "Phone",
+          "status": "Status",
+          "joined": "Joined"
+        },
+        "statuses": {
+          "pending": "Pending",
+          "approved": "Approved",
+          "rejected": "Rejected",
+          "cancelled": "Cancelled"
+        },
+        "storeStatus": {
+          "active": "Active store",
+          "suspended": "Suspended"
+        },
+        "actions": {
+          "approve": "Approve",
+          "reject": "Reject",
+          "cancel": "Cancel account",
+          "suspend": "Suspend store",
+          "activate": "Activate store",
+          "visitStore": "Visit store"
+        },
+        "confirmSuspend": "Confirm suspending store?",
+        "suspendReason": "Reason (optional)",
+        "suspendReasonPlaceholder": "E.g., Terms violation",
+        "approved": "Vendor approved",
+        "rejected": "Vendor rejected",
+        "cancelled": "Account cancelled",
+        "suspended": "Store suspended",
+        "activated": "Store activated",
+        "failed": "Something went wrong",
+        "noItems": "No vendors",
+        "searchPlaceholder": "Search by name or email..."
+      },
+      "assign": {
+        "title": "Assign Subscription",
+        "subtitle": "Manually assign a subscription to a specific vendor",
+        "vendor": "Vendor",
+        "selectVendor": "Select vendor",
+        "plan": "Plan",
+        "selectPlan": "Select plan",
+        "cycle": "Cycle",
+        "monthly": "Monthly",
+        "yearly": "Yearly",
+        "paymentMethod": "Payment Method",
+        "paymentReceipt": "Payment Receipt",
+        "receiptHint": "Receipt image (optional for manual assignment)",
+        "submit": "Assign Subscription",
+        "submitting": "Assigning...",
+        "success": "Subscription assigned",
+        "failed": "Assignment failed"
+      },
+      "subscriptions": {
+        "title": "Subscriptions",
+        "subtitle": "All vendor subscriptions on the platform",
+        "filters": {
+          "all": "All",
+          "pending": "Pending",
+          "active": "Active",
+          "expired": "Expired",
+          "cancelled": "Cancelled"
+        },
+        "table": {
+          "vendor": "Vendor",
+          "plan": "Plan",
+          "cycle": "Cycle",
+          "amount": "Amount",
+          "status": "Status",
+          "date": "Date"
+        },
+        "statuses": {
+          "active": "Active",
+          "pending": "Pending",
+          "expired": "Expired",
+          "cancelled": "Cancelled",
+          "grace_period": "Grace Period"
+        },
+        "cycles": {
+          "monthly": "Monthly",
+          "yearly": "Yearly"
+        },
+        "actions": {
+          "confirm": "Confirm",
+          "reject": "Reject",
+          "cancel": "Cancel",
+          "viewReceipt": "View receipt",
+          "viewDetails": "View details"
+        },
+        "confirmed": "Subscription confirmed",
+        "rejected": "Subscription rejected",
+        "cancelled": "Subscription cancelled",
+        "rejectReason": "Rejection reason (optional)",
+        "noItems": "No subscriptions"
+      },
+      "plans": {
+        "title": "Plans Management",
+        "subtitle": "Manage subscription plans available to vendors",
+        "addNew": "Add Plan",
+        "form": {
+          "nameAr": "Name (Arabic)",
+          "nameEn": "Name (English)",
+          "slug": "Slug",
+          "slugPlaceholder": "basic, pro, premium",
+          "descAr": "Description (Arabic)",
+          "descEn": "Description (English)",
+          "monthlyPrice": "Monthly Price",
+          "yearlyPrice": "Yearly Price",
+          "currency": "Currency",
+          "limits": "Limits",
+          "maxProducts": "Max products",
+          "maxCategories": "Max categories",
+          "maxSubCategories": "Max subcategories",
+          "maxBrands": "Max brands",
+          "maxSliders": "Max sliders",
+          "maxCoupons": "Max coupons",
+          "maxPages": "Max pages",
+          "maxOrdersPerMonth": "Max orders/month",
+          "unlimitedHint": "Leave empty for unlimited",
+          "features": "Features",
+          "feat": {
+            "product_variants": "Product Variants",
+            "multi_images": "Multiple Images",
+            "advanced_reports": "Advanced Reports",
+            "advanced_seo": "Advanced SEO",
+            "custom_domain": "Custom Domain",
+            "api_access": "API Access",
+            "priority_support": "Priority Support"
+          },
+          "sortOrder": "Sort Order",
+          "isPopular": "Most Popular",
+          "status": "Active"
+        },
+        "created": "Plan created",
+        "updated": "Plan updated",
+        "deleted": "Plan deleted",
+        "createFailed": "Failed to create",
+        "noItems": "No plans"
+      },
+      "messages": {
+        "title": "Marketing Contact Messages",
+        "subtitle": "Messages from visitors of the marketing site",
+        "filters": {
+          "all": "All",
+          "unread": "Unread",
+          "read": "Read"
+        },
+        "noItems": "No messages",
+        "noItemsDesc": "Messages from visitors via the contact form will appear here",
+        "table": {
+          "from": "From",
+          "subject": "Subject",
+          "date": "Date"
+        },
+        "detail": {
+          "back": "Back",
+          "replyByEmail": "Reply via Email",
+          "markReplied": "Mark as replied",
+          "delete": "Delete"
+        },
+        "deleted": "Deleted",
+        "markedReplied": "Marked as replied",
+        "failed": "Something went wrong"
+      }
+    },
+    "dashboard": {
+      "meta": {
+        "title": "Dashboard — Matgari",
+        "description": "Manage your store"
+      },
+      "nav": {
+        "overview": "Overview",
+        "products": "Products",
+        "categories": "Categories",
+        "subCategories": "Sub-categories",
+        "brands": "Brands",
+        "orders": "Orders",
+        "customers": "Customers",
+        "coupons": "Coupons",
+        "reviews": "Reviews",
+        "sliders": "Sliders",
+        "pages": "Pages",
+        "messages": "Messages",
+        "notifications": "Notifications",
+        "settings": "Settings",
+        "subscription": "Subscription",
+        "viewStore": "View Store",
+        "logout": "Logout"
+      },
+      "overview": {
+        "welcome": "Welcome, {name}",
+        "subtitle": "Here's a summary of your store activity",
+        "stats": {
+          "totalSales": "Total Sales",
+          "totalOrders": "Total Orders",
+          "totalProducts": "Products",
+          "totalCustomers": "Customers",
+          "pendingOrders": "Pending Orders",
+          "lowStock": "Low Stock"
+        },
+        "salesChart": "Sales — Last 7 Days",
+        "recentOrders": "Recent Orders",
+        "topProducts": "Top Selling",
+        "lowStockTitle": "Running low on stock",
+        "viewAll": "View all",
+        "noOrders": "No orders yet",
+        "noProducts": "No products",
+        "noLowStock": "All products well stocked",
+        "currency": "EGP"
+      },
+      "loading": "Loading...",
+      "error": "Something went wrong, please try again",
+      "logout": "Logout",
+      "common": {
+        "search": "Search",
+        "add": "Add",
+        "edit": "Edit",
+        "delete": "Delete",
+        "save": "Save",
+        "saving": "Saving...",
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "deleteConfirm": "Are you sure?",
+        "deleteWarning": "This action cannot be undone",
+        "actions": "Actions",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive",
+        "name": "Name",
+        "image": "Image",
+        "createdAt": "Created",
+        "noResults": "No results",
+        "yes": "Yes",
+        "no": "No"
+      },
+      "products": {
+        "title": "Products",
+        "subtitle": "Manage your store products",
+        "addNew": "Add Product",
+        "searchPlaceholder": "Search products...",
+        "table": {
+          "image": "Image",
+          "name": "Name",
+          "category": "Category",
+          "price": "Price",
+          "stock": "Stock",
+          "status": "Status"
+        },
+        "noProducts": "No products yet",
+        "noProductsDesc": "Start by adding your first product",
+        "deleted": "Product deleted",
+        "deleteFailed": "Failed to delete",
+        "import": {
+          "openButton": "Import / Export",
+          "title": "Import Products from Excel",
+          "subtitle": "Upload an Excel file to bulk-add your products",
+          "downloadTemplate": "Download Template",
+          "downloadTemplateDesc": "Get an empty file with the correct columns",
+          "exportAll": "Export my products",
+          "exportDesc": "Download all your products as Excel",
+          "uploadFile": "Choose Excel file",
+          "uploadHint": "XLSX, XLS, CSV — max 5MB",
+          "selectFile": "Select a file",
+          "selected": "Selected:",
+          "startImport": "Start Import",
+          "importing": "Importing...",
+          "successTitle": "Success!",
+          "result": "{imported} product(s) added · {skipped} skipped",
+          "errorsTitle": "Row errors",
+          "failed": "Import failed",
+          "instructionsTitle": "How to use?",
+          "step1": "Download the template",
+          "step2": "Open it in Excel or Google Sheets",
+          "step3": "Fill in the columns (name_ar, price, category required)",
+          "step4": "Save and upload the file here"
+        },
+        "form": {
+          "newTitle": "Add New Product",
+          "editTitle": "Edit Product",
+          "back": "Back to list",
+          "sections": {
+            "basic": "Basic Info",
+            "basicDesc": "Product name and description",
+            "pricing": "Pricing & Stock",
+            "pricingDesc": "Money matters",
+            "media": "Images",
+            "mediaDesc": "Product photos",
+            "organization": "Organization",
+            "organizationDesc": "Categorize your product",
+            "seo": "SEO",
+            "seoDesc": "Improve search engine visibility"
+          },
+          "fields": {
+            "nameAr": "Name (Arabic)",
+            "nameEn": "Name (English)",
+            "namePlaceholder": "E.g., Summer Cotton T-shirt",
+            "descAr": "Description (Arabic)",
+            "descEn": "Description (English)",
+            "descPlaceholder": "Write a detailed product description...",
+            "price": "Price",
+            "comparePrice": "Compare-at price",
+            "comparePriceHint": "Optional — must be greater than price",
+            "sku": "SKU",
+            "skuPlaceholder": "E.g., TS-001",
+            "quantity": "Stock Quantity",
+            "category": "Category",
+            "selectCategory": "Select category",
+            "brand": "Brand",
+            "selectBrand": "Select brand",
+            "noBrand": "No brand",
+            "image": "Main image",
+            "imageHint": "Choose a clear product image (JPG, PNG, WebP — max 2MB)",
+            "metaTitle": "SEO title",
+            "metaDesc": "SEO description",
+            "status": "Active (visible to visitors)",
+            "featured": "Featured product"
+          },
+          "saving": "Saving...",
+          "save": "Save Product",
+          "saveAndExit": "Save & exit",
+          "created": "Product created successfully",
+          "createFailed": "Failed to create product"
+        }
+      },
+      "orders": {
+        "title": "Orders",
+        "subtitle": "Manage your store orders",
+        "searchPlaceholder": "Search by order # or customer...",
+        "filters": {
+          "all": "All",
+          "pending": "Pending",
+          "processing": "Processing",
+          "shipped": "Shipped",
+          "delivered": "Delivered",
+          "cancelled": "Cancelled"
+        },
+        "table": {
+          "orderNumber": "Order #",
+          "customer": "Customer",
+          "items": "Items",
+          "total": "Total",
+          "status": "Status",
+          "paymentStatus": "Payment",
+          "date": "Date"
+        },
+        "noOrders": "No orders yet",
+        "noOrdersDesc": "Orders will appear here when customers place them",
+        "statuses": {
+          "pending": "Pending",
+          "processing": "Processing",
+          "shipped": "Shipped",
+          "delivered": "Delivered",
+          "cancelled": "Cancelled"
+        },
+        "payment": {
+          "pending": "Pending",
+          "paid": "Paid",
+          "failed": "Failed",
+          "refunded": "Refunded",
+          "cod": "Cash on Delivery",
+          "wallet": "E-Wallet",
+          "instapay": "InstaPay",
+          "card": "Credit Card"
+        },
+        "detail": {
+          "back": "Back to orders",
+          "title": "Order #{number}",
+          "customerInfo": "Customer Info",
+          "shippingAddress": "Shipping Address",
+          "items": "Items",
+          "summary": "Order Summary",
+          "subtotal": "Subtotal",
+          "discount": "Discount",
+          "shipping": "Shipping",
+          "total": "Total",
+          "notes": "Customer Notes",
+          "actions": "Actions",
+          "updateStatus": "Update Status",
+          "updatePayment": "Update Payment",
+          "downloadInvoice": "Download Invoice",
+          "shareInvoice": "Share Invoice",
+          "viewInvoice": "Preview Invoice",
+          "linkCopied": "Share link copied!",
+          "linkValid": "Link valid for 7 days",
+          "statusUpdated": "Status updated",
+          "paymentUpdated": "Payment status updated",
+          "updateFailed": "Update failed"
+        }
+      },
+      "subCategories": {
+        "title": "Sub-categories",
+        "subtitle": "Categories inside main categories",
+        "addNew": "Add Sub-category",
+        "namePlaceholder": "Sub-category name",
+        "parent": "Main Category",
+        "selectParent": "Select main category",
+        "noItems": "No sub-categories",
+        "noItemsDesc": "Add sub-categories to organize products further",
+        "created": "Created",
+        "deleted": "Deleted",
+        "createFailed": "Failed to create"
+      },
+      "categories": {
+        "title": "Categories",
+        "subtitle": "Organize your products",
+        "addNew": "Add Category",
+        "namePlaceholder": "Category name",
+        "noItems": "No categories",
+        "noItemsDesc": "Add a category to organize your products",
+        "created": "Category created",
+        "updated": "Category updated",
+        "deleted": "Category deleted",
+        "createFailed": "Failed to create category",
+        "deleteWarning": "Deleting a category will affect its products"
+      },
+      "messages": {
+        "title": "Customer Messages",
+        "subtitle": "Messages customers sent you from your store",
+        "filters": {
+          "all": "All",
+          "unread": "Unread",
+          "read": "Read",
+          "replied": "Replied"
+        },
+        "searchPlaceholder": "Search by name or subject...",
+        "table": {
+          "from": "From",
+          "subject": "Subject",
+          "date": "Date",
+          "status": "Status"
+        },
+        "statuses": {
+          "unread": "Unread",
+          "read": "Read",
+          "replied": "Replied"
+        },
+        "noItems": "No messages",
+        "noItemsDesc": "You'll find here any message a customer sends from the contact form",
+        "detail": {
+          "back": "Back",
+          "from": "From",
+          "phone": "Phone",
+          "email": "Email",
+          "subject": "Subject",
+          "message": "Message",
+          "receivedAt": "Received at",
+          "markReplied": "Mark as replied",
+          "replyByEmail": "Reply via Email",
+          "replyByWhatsapp": "Reply on WhatsApp",
+          "delete": "Delete message"
+        },
+        "markedReplied": "Message marked as replied",
+        "deleted": "Message deleted",
+        "failed": "Something went wrong"
+      },
+      "customers": {
+        "title": "Customers",
+        "subtitle": "Everyone who bought from your store",
+        "searchPlaceholder": "Search by name, phone, or email...",
+        "table": {
+          "customer": "Customer",
+          "phone": "Phone",
+          "orders": "Orders",
+          "totalSpent": "Total Spent",
+          "lastOrder": "Last Order"
+        },
+        "noItems": "No customers yet",
+        "noItemsDesc": "Customers appear here after their first order",
+        "viewOrders": "View orders"
+      },
+      "variants": {
+        "title": "Product Variants",
+        "subtitle": "Different sizes and colors of the product",
+        "options": "Options",
+        "addOption": "Add Option",
+        "optionName": "Option Name",
+        "optionNamePlaceholder": "E.g., Size, Color",
+        "values": "Values",
+        "valuesPlaceholder": "Separate values with comma (e.g., S, M, L)",
+        "deleteOption": "Delete option",
+        "variantsList": "Available Combinations",
+        "addVariant": "Add Combination",
+        "variantSku": "SKU",
+        "variantPrice": "Price",
+        "variantStock": "Stock",
+        "noOptions": "No options yet",
+        "noOptionsDesc": "Start by adding an option like 'Size' or 'Color'",
+        "noVariants": "No combinations",
+        "back": "Back to product",
+        "manageVariants": "Manage Variants",
+        "created": "Added",
+        "deleted": "Deleted",
+        "failed": "Action failed"
+      },
+      "sliders": {
+        "title": "Sliders",
+        "subtitle": "Banners shown at the top of your store",
+        "addNew": "Add Banner",
+        "form": {
+          "titleAr": "Title (Arabic)",
+          "titleEn": "Title (English)",
+          "descAr": "Description (Arabic)",
+          "descEn": "Description (English)",
+          "image": "Image",
+          "imageHint": "Wide image (1920×600) — JPG, PNG, WebP, max 2MB",
+          "link": "Click URL",
+          "linkPlaceholder": "https://...",
+          "sortOrder": "Sort Order",
+          "status": "Active"
+        },
+        "noItems": "No sliders",
+        "noItemsDesc": "Add an attractive banner to your store",
+        "created": "Banner added",
+        "deleted": "Banner deleted",
+        "createFailed": "Failed to add"
+      },
+      "pages": {
+        "title": "Pages",
+        "subtitle": "Custom pages for your store (About, Terms, etc.)",
+        "addNew": "Add Page",
+        "form": {
+          "titleAr": "Title (Arabic)",
+          "titleEn": "Title (English)",
+          "contentAr": "Content (Arabic)",
+          "contentEn": "Content (English)",
+          "contentPlaceholder": "Write page content (supports basic HTML)...",
+          "metaTitle": "SEO Title",
+          "metaDesc": "SEO Description",
+          "status": "Published"
+        },
+        "table": {
+          "title": "Title",
+          "slug": "Slug",
+          "status": "Status",
+          "created": "Created"
+        },
+        "noItems": "No pages yet",
+        "noItemsDesc": "Add pages like About Us, Terms, or Privacy Policy",
+        "created": "Page created",
+        "deleted": "Page deleted",
+        "createFailed": "Failed to create",
+        "published": "Published",
+        "draft": "Draft"
+      },
+      "notifications": {
+        "title": "Notifications",
+        "subtitle": "Everything happening in your store",
+        "all": "All",
+        "unread": "Unread",
+        "markAllRead": "Mark all as read",
+        "clearAll": "Clear all",
+        "noItems": "No notifications",
+        "noItemsDesc": "You'll see store updates here",
+        "justNow": "just now",
+        "minutesAgo": "{m}m ago",
+        "hoursAgo": "{h}h ago",
+        "daysAgo": "{d}d ago",
+        "markedRead": "Marked as read",
+        "allMarked": "All notifications marked as read",
+        "cleared": "All notifications cleared",
+        "deleted": "Notification deleted",
+        "failed": "Something went wrong"
+      },
+      "subscription": {
+        "title": "Subscription",
+        "subtitle": "Your current plan details",
+        "currentPlan": "Current Plan",
+        "status": "Status",
+        "billingCycle": "Billing Cycle",
+        "startedAt": "Started",
+        "expiresAt": "Expires",
+        "daysLeft": "{days} days left",
+        "amount": "Amount",
+        "statuses": {
+          "active": "Active",
+          "pending": "Pending",
+          "expired": "Expired",
+          "cancelled": "Cancelled",
+          "grace_period": "Grace Period"
+        },
+        "actions": {
+          "upgrade": "Upgrade Plan",
+          "renew": "Renew",
+          "cancel": "Cancel Subscription",
+          "viewHistory": "Subscription History"
+        },
+        "cycles": {
+          "monthly": "Monthly",
+          "yearly": "Yearly"
+        },
+        "noSubscription": "No active subscription",
+        "noSubscriptionDesc": "Choose a plan to start your store",
+        "browsePlans": "Browse Plans",
+        "cancelConfirm": "Confirm cancellation?",
+        "cancelWarning": "You'll lose all plan features, and after the grace period, your store will stop.",
+        "cancelled": "Subscription cancelled",
+        "cancelFailed": "Cancellation failed",
+        "history": "Subscription History",
+        "noHistory": "No history"
+      },
+      "settings": {
+        "title": "Store Settings",
+        "subtitle": "Manage your store identity and details",
+        "sections": {
+          "branding": "Branding",
+          "brandingDesc": "Logo and name shown to visitors",
+          "theme": "Store Theme",
+          "themeDesc": "Pick the colors and font your customers will see",
+          "contact": "Contact Info",
+          "contactDesc": "How customers can reach you",
+          "social": "Social Media",
+          "socialDesc": "Links to your accounts",
+          "seo": "SEO",
+          "seoDesc": "Search engine visibility"
+        },
+        "theme": {
+          "preset": "Color preset",
+          "presetHint": "Pick from ready-made palettes",
+          "font": "Font",
+          "fontHint": "Applied across the whole storefront",
+          "preview": "Live preview",
+          "previewTitle": "Main heading",
+          "previewText": "This is how your store will look to customers",
+          "previewButton": "Primary button",
+          "openStore": "Open store to preview"
+        },
+        "fields": {
+          "storeName": "Store Name",
+          "logo": "Logo",
+          "logoHint": "Transparent PNG preferred, square aspect ratio",
+          "favicon": "Favicon",
+          "storePhone": "Phone",
+          "storeEmail": "Email",
+          "storeAddress": "Address",
+          "storeBranches": "Branches",
+          "storeBranchesHint": "One branch per line — appears on invoices and the store footer",
+          "storeWebsite": "Store website",
+          "facebook": "Facebook",
+          "instagram": "Instagram",
+          "twitter": "X (Twitter)",
+          "whatsapp": "WhatsApp",
+          "metaTitle": "SEO Title",
+          "metaDescription": "SEO Description",
+          "currency": "Currency"
+        },
+        "updated": "Settings saved",
+        "logoUpdated": "Logo updated",
+        "updateFailed": "Failed to save"
+      },
+      "reviews": {
+        "title": "Reviews",
+        "subtitle": "Moderate customer reviews",
+        "rating": "Rating",
+        "comment": "Comment",
+        "product": "Product",
+        "customer": "Customer",
+        "approve": "Approve",
+        "reject": "Reject",
+        "approved": "Review approved",
+        "rejected": "Review rejected",
+        "noItems": "No pending reviews",
+        "noItemsDesc": "All reviews have been moderated"
+      },
+      "coupons": {
+        "title": "Coupons",
+        "subtitle": "Create and manage discount coupons",
+        "addNew": "Add Coupon",
+        "table": {
+          "code": "Code",
+          "type": "Type",
+          "value": "Value",
+          "minOrder": "Min order",
+          "usage": "Usage",
+          "validity": "Validity",
+          "status": "Status"
+        },
+        "noItems": "No coupons yet",
+        "noItemsDesc": "Create a discount coupon to attract customers",
+        "types": {
+          "fixed": "Fixed",
+          "percentage": "Percentage %"
+        },
+        "form": {
+          "code": "Coupon Code",
+          "codePlaceholder": "E.g., SUMMER20",
+          "type": "Discount Type",
+          "value": "Discount Value",
+          "minOrder": "Min Order Amount",
+          "minOrderHint": "Optional",
+          "maxDiscount": "Max Discount",
+          "maxDiscountHint": "Optional — for percentage",
+          "usageLimit": "Usage Limit",
+          "usageLimitHint": "Optional — leave blank for unlimited",
+          "startDate": "Start Date",
+          "endDate": "End Date",
+          "status": "Active"
+        },
+        "created": "Coupon created",
+        "deleted": "Coupon deleted",
+        "createFailed": "Failed to create coupon",
+        "expired": "Expired",
+        "active": "Active"
+      },
+      "brands": {
+        "title": "Brands",
+        "subtitle": "Manage product brands",
+        "addNew": "Add Brand",
+        "namePlaceholder": "Brand name",
+        "noItems": "No brands yet",
+        "noItemsDesc": "Add your brands to use in products",
+        "created": "Brand created",
+        "deleted": "Brand deleted"
+      }
+    },
+    "legal": {
+      "lastUpdated": "Last updated: May 2026",
+      "privacy": {
+        "meta": {
+          "title": "Privacy Policy — Matgari",
+          "description": "Learn how we protect your data and respect your privacy at Matgari."
+        },
+        "title": "Privacy Policy",
+        "intro": "At Matgari, we respect your privacy and are committed to protecting your personal data. This policy explains how we collect, use, and safeguard your information.",
+        "sections": [
+          {
+            "title": "Data We Collect",
+            "body": "We collect data you provide during registration (name, email, phone, store name) along with basic usage data to improve the service."
+          },
+          {
+            "title": "How We Use Your Data",
+            "body": "We use your data to manage your account, provide the service, improve your experience, and communicate with you about account updates or our services."
+          },
+          {
+            "title": "Data Protection",
+            "body": "We apply appropriate technical and organizational security measures to protect your data from unauthorized access, alteration, disclosure, or destruction."
+          },
+          {
+            "title": "Data Sharing",
+            "body": "We don't sell your data to any third party. We may share some data with trusted service providers (like hosting services) only to operate the platform."
+          },
+          {
+            "title": "Your Rights",
+            "body": "You have the right to access, modify, or delete your data at any time. Contact us for assistance."
+          }
+        ]
+      },
+      "terms": {
+        "meta": {
+          "title": "Terms of Service — Matgari",
+          "description": "The terms and conditions for using the Matgari platform."
+        },
+        "title": "Terms of Service",
+        "intro": "By using the Matgari platform, you agree to these terms. Please read them carefully.",
+        "sections": [
+          {
+            "title": "Acceptance of Terms",
+            "body": "By creating an account or using the platform, you agree to comply with these terms and all applicable laws."
+          },
+          {
+            "title": "Account Responsibility",
+            "body": "You are responsible for maintaining the confidentiality of your account credentials and for all activities under your account. You must notify us immediately of any unauthorized use."
+          },
+          {
+            "title": "Acceptable Content",
+            "body": "You agree not to use the platform to sell illegal or prohibited products. We reserve the right to terminate violating accounts."
+          },
+          {
+            "title": "Subscriptions and Payments",
+            "body": "Subscriptions are monthly or yearly and paid in advance. You can cancel at any time from your account settings."
+          },
+          {
+            "title": "Service Termination",
+            "body": "We reserve the right to terminate or suspend accounts that violate these terms, with the option to recover your account data."
+          },
+          {
+            "title": "Modifying Terms",
+            "body": "We may update these terms from time to time. We'll notify you of any material changes via email."
+          }
+        ]
+      },
+      "refund": {
+        "meta": {
+          "title": "Refund Policy — Matgari",
+          "description": "Learn about our refund terms at Matgari."
+        },
+        "title": "Refund Policy",
+        "intro": "We always strive to satisfy our customers. Learn about our refund terms and conditions.",
+        "sections": [
+          {
+            "title": "Trial Period",
+            "body": "We provide a grace period at the start of subscription. If you face any issue in the early days, contact our support team and we'll help."
+          },
+          {
+            "title": "Refund Cases",
+            "body": "A refund can be requested if there's a technical issue on our end preventing you from using the platform, or if the service doesn't match what was described."
+          },
+          {
+            "title": "Yearly Subscriptions",
+            "body": "For yearly subscriptions, refunds are available within the first 14 days, provided the platform hasn't been fully used."
+          },
+          {
+            "title": "How to Request a Refund",
+            "body": "Send your refund request through the contact page explaining the reason, and we'll respond within 3 business days."
+          },
+          {
+            "title": "Exceptions",
+            "body": "Refunds are not available in cases where accounts are terminated for violations of the Terms of Service."
+          }
+        ]
+      }
+    },
+    "notFound": {
+      "code": "404",
+      "title": "This product is off the shelf!",
+      "subtitle": "The page you're looking for doesn't exist. It might have been moved or the link is incorrect.",
+      "home": "Back to Home",
+      "contact": "Contact us",
+      "popular": "You might like"
+    },
+    "store": {
+      "meta": {
+        "title": "{store}",
+        "description": "{store} — an online store powered by Matgari"
+      },
+      "nav": {
+        "home": "Home",
+        "shop": "Shop",
+        "categories": "Categories",
+        "about": "About",
+        "contact": "Contact"
+      },
+      "currency": "EGP",
+      "search": "Search",
+      "searchPlaceholder": "Search products...",
+      "cart": "Cart",
+      "wishlist": "Wishlist",
+      "account": "Account",
+      "login": "Sign in",
+      "register": "Sign up",
+      "logout": "Sign out",
+      "auth": {
+        "signIn": "Sign in",
+        "account": "Account",
+        "profile": "My profile",
+        "myOrders": "My orders",
+        "wishlist": "Wishlist",
+        "logout": "Sign out",
+        "loginTitle": "Welcome back",
+        "loginSubtitle": "Sign in to continue shopping",
+        "registerTitle": "Create an account",
+        "registerSubtitle": "Sign up to track your orders and save favorites",
+        "name": "Full name",
+        "email": "Email",
+        "password": "Password",
+        "passwordConfirm": "Confirm password",
+        "loginButton": "Sign in",
+        "registerButton": "Create account",
+        "loading": "Please wait...",
+        "noAccount": "Don't have an account?",
+        "haveAccount": "Already have an account?",
+        "switchToRegister": "Create one",
+        "switchToLogin": "Sign in",
+        "error": "Something went wrong"
+      },
+      "home": {
+        "shopByCategory": "Shop by Category",
+        "featured": "Best Sellers",
+        "featuredSubtitle": "Our favorites",
+        "newArrivals": "New Arrivals",
+        "viewAll": "View all",
+        "explore": "Explore"
+      },
+      "product": {
+        "outOfStock": "Out of stock",
+        "inStock": "In stock",
+        "addToCart": "Add to cart",
+        "addedToCart": "Added to cart",
+        "buyNow": "Buy now",
+        "wishlist": "Add to wishlist",
+        "share": "Share",
+        "quantity": "Quantity",
+        "description": "Description",
+        "sku": "SKU",
+        "category": "Category",
+        "brand": "Brand",
+        "related": "Related products",
+        "reviews": "Reviews",
+        "rating": "Rating",
+        "noReviews": "No reviews yet",
+        "selectVariant": "Select",
+        "discount": "Off",
+        "save": "Save",
+        "loadFailed": "Failed to load product"
+      },
+      "shop": {
+        "title": "All Products",
+        "filters": "Filters",
+        "sortBy": "Sort by",
+        "sort": {
+          "newest": "Newest",
+          "priceAsc": "Price: Low to High",
+          "priceDesc": "Price: High to Low",
+          "popular": "Most popular"
+        },
+        "noResults": "No products",
+        "noResultsDesc": "Try a different filter or search",
+        "showing": "Showing {count} products"
+      },
+      "footer": {
+        "tagline": "A store made with love",
+        "quickLinks": "Quick Links",
+        "policies": "Policies",
+        "follow": "Follow us",
+        "poweredBy": "Powered by"
+      },
+      "cart": {
+        "title": "Shopping Cart",
+        "empty": "Your cart is empty",
+        "emptyDesc": "Add items to your cart and come back",
+        "continueShopping": "Continue shopping",
+        "items": "Items",
+        "quantity": "Quantity",
+        "remove": "Remove",
+        "subtotal": "Subtotal",
+        "discount": "Discount",
+        "shipping": "Shipping",
+        "total": "Total",
+        "couponPlaceholder": "Discount code",
+        "applyCoupon": "Apply",
+        "couponApplied": "Coupon applied",
+        "couponInvalid": "Invalid coupon",
+        "removeCoupon": "Remove coupon",
+        "proceedToCheckout": "Proceed to Checkout",
+        "clearCart": "Clear cart",
+        "updated": "Quantity updated",
+        "removed": "Item removed",
+        "shippingNote": "Shipping will be calculated at checkout"
+      },
+      "checkout": {
+        "title": "Checkout",
+        "back": "Back to cart",
+        "shippingInfo": "Shipping Information",
+        "fields": {
+          "name": "Full Name",
+          "phone": "Phone Number",
+          "email": "Email (optional)",
+          "address": "Address",
+          "addressPlaceholder": "Street, building, apartment",
+          "city": "City",
+          "notes": "Notes (optional)",
+          "notesPlaceholder": "Any delivery instructions"
+        },
+        "paymentMethod": "Payment Method",
+        "payment": {
+          "cash": "Cash on Delivery",
+          "cashDesc": "Pay cash when your order arrives",
+          "wallet": "E-Wallet",
+          "walletDesc": "Vodafone Cash / InstaPay",
+          "instapay": "InstaPay",
+          "card": "Credit Card"
+        },
+        "summary": "Order Summary",
+        "placeOrder": "Place Order",
+        "placing": "Processing...",
+        "success": "Order received!",
+        "successDesc": "You'll receive a confirmation soon. Order #{number}",
+        "viewOrder": "View Order",
+        "shopMore": "Shop more",
+        "failed": "Failed to place order, try again"
+      },
+      "orders": {
+        "title": "My Orders",
+        "empty": "No orders yet",
+        "emptyDesc": "Place your first order to start your journey",
+        "orderNumber": "Order #",
+        "date": "Date",
+        "items": "{count} items",
+        "total": "Total",
+        "status": "Status",
+        "viewDetails": "View details",
+        "downloadInvoice": "Download invoice",
+        "cancel": "Cancel order",
+        "cancelConfirm": "Confirm cancellation?",
+        "cancelled": "Order cancelled",
+        "cancelFailed": "Cancellation failed"
+      },
+      "orderDetail": {
+        "items": "Order items",
+        "subtotal": "Subtotal",
+        "discount": "Discount",
+        "shipping": "Shipping",
+        "total": "Total",
+        "shippingTo": "Shipping to",
+        "notes": "Notes",
+        "backToOrders": "Back to orders",
+        "notFound": "Order not found"
+      },
+      "profile": {
+        "personalInfo": "Personal information",
+        "name": "Full name",
+        "email": "Email",
+        "saveChanges": "Save changes",
+        "saving": "Saving...",
+        "changePassword": "Change password",
+        "currentPassword": "Current password",
+        "newPassword": "New password",
+        "confirmPassword": "Confirm new password",
+        "updatePassword": "Update password",
+        "recentOrders": "Recent orders",
+        "viewAll": "View all",
+        "profileUpdated": "Profile updated",
+        "passwordUpdated": "Password updated",
+        "passwordMismatch": "Passwords do not match",
+        "signInRequired": "Please sign in to view your profile",
+        "error": "Something went wrong",
+        "stats": {
+          "total": "Total orders",
+          "pending": "Pending",
+          "delivered": "Delivered",
+          "spend": "Total spent"
+        }
+      },
+      "wishlist": {
+        "title": "Wishlist",
+        "empty": "Your wishlist is empty",
+        "emptyDesc": "Add your favorite products to see them here",
+        "clear": "Clear wishlist",
+        "added": "Added to wishlist",
+        "removed": "Removed from wishlist"
+      }
+    },
+    "subscribe": {
+      "meta": {
+        "title": "Complete Subscription — Matgari",
+        "description": "Complete your Matgari subscription and start your online store."
+      },
+      "title": "Complete your subscription",
+      "subtitle": "One step away from launching your store",
+      "summary": {
+        "title": "Plan Summary",
+        "monthly": "Monthly subscription",
+        "yearly": "Yearly subscription",
+        "save": "Save {percent}%",
+        "total": "Total",
+        "currency": "EGP"
+      },
+      "billing": {
+        "title": "Billing Cycle",
+        "monthly": "Monthly",
+        "yearly": "Yearly"
+      },
+      "payment": {
+        "title": "Payment Method",
+        "wallet": "E-Wallet",
+        "walletDesc": "Vodafone Cash / Etisalat Cash / Orange Cash",
+        "walletNumber": "Wallet Number:",
+        "walletValue": "01234567890",
+        "instapay": "InstaPay",
+        "instapayDesc": "Transfer via InstaPay app",
+        "instapayHandle": "InstaPay handle:",
+        "instapayValue": "matgari@instapay",
+        "amount": "Amount to transfer:"
+      },
+      "receipt": {
+        "title": "Transfer Receipt",
+        "desc": "Upload a clear image of your transfer receipt",
+        "uploadBtn": "Choose image",
+        "selected": "File selected",
+        "fileTypes": "JPG, PNG (max 2MB)",
+        "tooLarge": "File too large (max 2MB)",
+        "invalidType": "File type not supported"
+      },
+      "submit": "Complete Subscription",
+      "submitting": "Submitting...",
+      "success": {
+        "title": "Request received!",
+        "desc": "We'll review your request and activate your store within hours. You'll receive an email confirmation.",
+        "btn": "Back to Home"
+      },
+      "errors": {
+        "noAuth": "Please sign in first",
+        "noPlan": "Please choose a plan from the pricing page",
+        "noReceipt": "Please upload a payment receipt",
+        "submitFailed": "Subscription failed, please try again"
+      },
+      "loginRequired": {
+        "title": "Sign in required",
+        "desc": "Sign in or create an account to complete your subscription",
+        "login": "Sign In",
+        "register": "Create Account"
+      }
+    },
+    "demo": {
+      "meta": {
+        "title": "Store Preview — Matgari",
+        "description": "See how your store could look on Matgari. A demo store with professional design."
+      },
+      "banner": {
+        "label": "Demo Preview",
+        "text": "This is a demo store. Want one like this for your products?",
+        "cta": "Start Your Store"
+      },
+      "store": {
+        "name": "LUMA",
+        "tagline": "Curated essentials for the modern soul"
+      },
+      "nav": {
+        "shop": "Shop",
+        "collections": "Collections",
+        "lookbook": "Lookbook",
+        "about": "About",
+        "contact": "Contact"
+      },
+      "hero": {
+        "season": "2026 Collection",
+        "title": "Essentials,",
+        "titleEm": "reimagined",
+        "subtitle": "Carefully curated pieces from artisans around the world. Each piece tells a story.",
+        "cta": "Shop the Collection",
+        "ctaSecondary": "View All"
+      },
+      "categories": {
+        "title": "Shop by Category",
+        "items": {
+          "clothing": "Clothing",
+          "accessories": "Accessories",
+          "footwear": "Footwear",
+          "beauty": "Beauty",
+          "home": "Home"
+        }
+      },
+      "featured": {
+        "label": "Best Sellers",
+        "title": "Pieces you'll love",
+        "subtitle": "Our favorites from the new collection"
+      },
+      "product": {
+        "addToCart": "Add to Cart",
+        "quickView": "Quick View",
+        "wishlist": "Add to Wishlist",
+        "new": "New",
+        "sale": "Sale"
+      },
+      "values": {
+        "shipping": { "title": "Free Shipping", "desc": "On orders over EGP 1,000" },
+        "returns": { "title": "Easy Returns", "desc": "Within 14 days" },
+        "secure": { "title": "Secure Payment", "desc": "Full data protection" },
+        "support": { "title": "24/7 Support", "desc": "Our team is here for you" }
+      },
+      "newsletter": {
+        "label": "Stay in touch",
+        "title": "Be the first to know",
+        "desc": "Subscribe to our newsletter and get 10% off your first order",
+        "placeholder": "Your email",
+        "btn": "Subscribe"
+      },
+      "footer": {
+        "tagline": "Made with love for those who appreciate carefully curated pieces.",
+        "shop": "Shop",
+        "company": "Company",
+        "support": "Support",
+        "all": "All Products",
+        "new": "New Arrivals",
+        "bestSellers": "Best Sellers",
+        "sale": "Sale",
+        "story": "Our Story",
+        "stores": "Our Stores",
+        "blog": "Blog",
+        "shipping": "Shipping",
+        "returns": "Returns",
+        "faq": "FAQ",
+        "rights": "All rights reserved"
+      }
+    },
+    "contact": {
+      "meta": {
+        "title": "Contact — Matgari",
+        "description": "Get in touch with the Matgari team for help or inquiries."
+      },
+      "hero": {
+        "eyebrow": "Contact Us",
+        "title": "We'd love to hear from you"
+      },
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Your Message",
+        "submit": "Send Message",
+        "submitting": "Sending...",
+        "success": "Your message was sent successfully. We'll get back to you soon.",
+        "error": "Something went wrong, please try again"
+      },
+      "info": {
+        "email": "Email us",
+        "phone": "Call us",
+        "hours": "Working Hours",
+        "hoursValue": "Sat - Thu, 10am - 6pm"
+      }
+    }
+  }
+}
