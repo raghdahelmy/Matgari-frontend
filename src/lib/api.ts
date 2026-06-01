@@ -37,6 +37,12 @@ export async function register(data: RegisterData) {
   });
 }
 
+export interface StoreInfo {
+  status: 'pending_approval' | 'no_subscription' | 'pending_activation' | 'suspended' | 'active';
+  message: string;
+  domain?: string;
+}
+
 export interface User {
   id: number;
   name: string;
@@ -45,6 +51,13 @@ export interface User {
   role: string;
   store_name: string;
   status: string;
+  store?: StoreInfo;
+}
+
+export async function getMe(locale?: string) {
+  return apiFetch<User>('/auth/me', {
+    headers: locale ? { 'Accept-Language': locale } as Record<string, string> : undefined,
+  });
 }
 
 export interface RegisterData {
